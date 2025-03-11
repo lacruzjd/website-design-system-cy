@@ -1,0 +1,22 @@
+/* estylos de la web */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* section de colores */
+#colores {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(210, 210, 210);
+    display: flex;
+}
+/* forma del cuadro de color */
+.paleta{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+
+}
+
